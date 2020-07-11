@@ -1,5 +1,9 @@
 ### Hi there 👋 
 **Glad to see you here!** :star_struck:
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/MalekShabab) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MalekShabab)
+
 <!--
 **MalekShabab/MalekShabab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
