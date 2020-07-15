@@ -1,5 +1,5 @@
 
-![GitHub Logo](https://i.pinimg.com/originals/86/aa/8a/86aa8aad36472b36bfb98c4d1317a513.gif)
+![GitHub Logo](https://miraculoussoft.com/wp-content/themes/miraculous/images/development.gif)
 
 
 <!--
