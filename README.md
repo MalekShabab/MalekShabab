@@ -1,3 +1,13 @@
+### Hi, i'm Malek :wave:
+**Glad to see you here** :heart_eyes:
+
+### About 
+
+First and foremost, I love writing code. Ever since writing my first program in Python and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
+
+### Get in touch
+* **Linkedin** https://www.linkedin.com/in/malekshabab/
+* **Facebook** https://www.facebook.com/MALEK8888/
 
 ![GitHub Logo](https://miraculoussoft.com/wp-content/themes/miraculous/images/development.gif)
 
