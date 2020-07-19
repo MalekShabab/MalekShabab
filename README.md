@@ -1,5 +1,6 @@
 ### Hi, i'm Malek :wave:
 **Glad to see you here** :heart_eyes:
+![GitHub Logo](https://miraculoussoft.com/wp-content/themes/miraculous/images/development.gif)
 
 ### About my
 
@@ -9,7 +10,6 @@ First and foremost, I love writing code. Ever since writing my first program in 
 * **Linkedin** https://www.linkedin.com/in/malekshabab/
 * **Facebook** https://www.facebook.com/MALEK8888/
 
-![GitHub Logo](https://miraculoussoft.com/wp-content/themes/miraculous/images/development.gif)
 
 
 <!--
